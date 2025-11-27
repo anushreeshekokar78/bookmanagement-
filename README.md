@@ -21,3 +21,13 @@ INSERT INTO books (title, author, price) VALUES
 ('The Alchemist', 'Paulo Coelho', 10.99),
 ('1984', 'George Orwell', 8.99),
 ('anushreee', 'Robert Kiyosaki', 12.50);
+
+
+
+backend running 
+cd backend
+node index.js
+
+
+frontend running command 
+npm start 
