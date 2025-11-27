@@ -31,3 +31,7 @@ node index.js
 
 frontend running command 
 npm start 
+
+
+running port 
+http://localhost:3000/
